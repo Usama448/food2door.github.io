@@ -1,0 +1,47 @@
+
+#navbar{
+flex-direction: column;
+height: 100%;
+
+}
+#home{
+flex-direction: column;
+}
+#home img{
+    height: 100%;
+}
+#services{
+    flex-direction: column;
+}
+#service .box{
+    padding: 14px;
+    margin:2px 55px;
+    margin-bottom: 20px;
+}
+#services img{
+    height: 80%;
+}
+
+#clients{
+flex-wrap: wrap;
+}
+#client img{
+    width: auto;
+}
+#contact{
+    flex-wrap: wrap;
+}
+#contact img
+{
+    margin-top: 2px;
+    width: auto;
+    height: auto;
+}
+.h-primray{
+    font-size: 26px;
+}
+.btn{
+    font-size: 13px;
+    padding: 20px 8px;
+
+}
